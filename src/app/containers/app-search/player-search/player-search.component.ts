@@ -28,7 +28,7 @@ const defaultSearchParams = {
     <form class="navbar-form form-search is-flex-row"
       [formGroup]="searchForm"
       >
-      <input placeholder="Find My Echoes..."
+      <input placeholder="Find My Songs..."
         ngxTypeahead
         [taUrl]="'//suggestqueries.google.com/complete/search'"
         [taParams]="params"

@@ -33,28 +33,46 @@ interface TSearchType {
 })
 export class SearchNavigatorComponent implements OnInit {
   searchTypes: TSearchType[] = [
+    // {
+    //   label: 'Videos',
+    //   link: `/search/videos`,
+    //   params: { filter: '' },
+    //   type: CSearchTypes.VIDEO
+    // },
+    // {
+    //   label: 'Playlists',
+    //   link: '/search/playlists',
+    //   params: { filter: '' },
+    //   type: CSearchTypes.PLAYLIST
+    // },
+    // {
+    //   label: 'Albums',
+    //   link: `/search/videos`,
+    //   params: { filter: CPresetTypes.FULL_ALBUMS },
+    //   type: CSearchTypes.VIDEO
+    // },
+    // {
+    //   label: 'Live',
+    //   link: `/search/videos`,
+    //   params: { filter: CPresetTypes.LIVE },
+    //   type: CSearchTypes.VIDEO
+    // },
     {
-      label: 'Videos',
+      label: 'Zumba',
       link: `/search/videos`,
-      params: { filter: '' },
+      params: { filter: CPresetTypes.ZUMBA },
       type: CSearchTypes.VIDEO
     },
     {
-      label: 'Playlists',
-      link: '/search/playlists',
-      params: { filter: '' },
-      type: CSearchTypes.PLAYLIST
-    },
-    {
-      label: 'Albums',
+      label: 'Strong Zumba',
       link: `/search/videos`,
-      params: { filter: CPresetTypes.FULL_ALBUMS },
+      params: { filter: CPresetTypes.STRONGZUMBA },
       type: CSearchTypes.VIDEO
     },
     {
-      label: 'Live',
+      label: 'Bollywood',
       link: `/search/videos`,
-      params: { filter: CPresetTypes.LIVE },
+      params: { filter: CPresetTypes.Bollywood },
       type: CSearchTypes.VIDEO
     }
   ];

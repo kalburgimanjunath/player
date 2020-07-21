@@ -1,7 +1,7 @@
 {
-  "name": "Echoes Player",
-  "short_name": "Echoes",
-  "description": "Echoes is the missing Media Player experience for Youtube ",
+  "name": "Player",
+  "short_name": "player",
+  "description": "player is the missing Media Player experience for Youtube ",
   "theme_color": "#0d0f0f",
   "background_color": "#03A9F4",
   "display": "fullscreen",

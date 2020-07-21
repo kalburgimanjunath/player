@@ -39,4 +39,7 @@ export class CSearchTypes {
 export class CPresetTypes {
   static FULL_ALBUMS = 'full albums';
   static LIVE = 'live';
+  static ZUMBA = 'Zumba';
+  static Bollywood = 'bollybeats';
+  static STRONGZUMBA = 'strongzumba';  
 }

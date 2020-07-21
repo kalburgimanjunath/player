@@ -8,9 +8,9 @@ import { Component, OnInit } from '@angular/core';
   <div class="brand-container bg-primary"
     (click)="toggleSidebar()">
     <section class="brand-text">
-      <h3 class="text brand-text-item">Ech</h3>
+      <h3 class="text brand-text-item">Pla</h3>
       <icon name="headphones" class="brand-icon brand-text-item"></icon>
-      <h3 class="text brand-text-item">es</h3>
+      <h3 class="text brand-text-item">er</h3>
     </section>
     <button class="btn btn-transparent sidebar-toggle">
       <icon name="bars 2x"></icon>
