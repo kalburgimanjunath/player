@@ -1,0 +1,90 @@
+{
+  "configVersion": 1,
+  "timestamp": 1595342010474,
+  "index": "https://kalburgimanjunath.github.io/player/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://kalburgimanjunath.github.io/player/5-es2015.a16e9d7ff730e8bc5beb.js",
+        "https://kalburgimanjunath.github.io/player/5-es5.a16e9d7ff730e8bc5beb.js",
+        "https://kalburgimanjunath.github.io/player/favicon.ico",
+        "https://kalburgimanjunath.github.io/player/index.html",
+        "https://kalburgimanjunath.github.io/player/main-es2015.f7c27f6552c8afeabe4f.js",
+        "https://kalburgimanjunath.github.io/player/main-es5.f7c27f6552c8afeabe4f.js",
+        "https://kalburgimanjunath.github.io/player/polyfills-es2015.b85ba166f997d29afc39.js",
+        "https://kalburgimanjunath.github.io/player/polyfills-es5.28b8058dedeea6a29c6c.js",
+        "https://kalburgimanjunath.github.io/player/runtime-es2015.3a4330a3e143c77f1415.js",
+        "https://kalburgimanjunath.github.io/player/runtime-es5.3a4330a3e143c77f1415.js",
+        "https://kalburgimanjunath.github.io/player/styles.49edbe688308381c140f.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://kalburgimanjunath.github.io/player/assets/icon/icon.html",
+        "https://kalburgimanjunath.github.io/player/assets/icons/icon-128x128.png",
+        "https://kalburgimanjunath.github.io/player/assets/icons/icon-144x144.png",
+        "https://kalburgimanjunath.github.io/player/assets/icons/icon-152x152.png",
+        "https://kalburgimanjunath.github.io/player/assets/icons/icon-192x192.png",
+        "https://kalburgimanjunath.github.io/player/assets/icons/icon-384x384.png",
+        "https://kalburgimanjunath.github.io/player/assets/icons/icon-48x48.png",
+        "https://kalburgimanjunath.github.io/player/assets/icons/icon-512x512.png",
+        "https://kalburgimanjunath.github.io/player/assets/icons/icon-72x72.png",
+        "https://kalburgimanjunath.github.io/player/assets/icons/icon-96x96.png",
+        "https://kalburgimanjunath.github.io/player/assets/images/developed-with-youtube-sentence-case-light.png",
+        "https://kalburgimanjunath.github.io/player/assets/privacy-policy.txt"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://kalburgimanjunath.github.io/player/5-es2015.a16e9d7ff730e8bc5beb.js": "1a75c60a485cfe02fc68a4bf779fb03effa93830",
+    "https://kalburgimanjunath.github.io/player/5-es5.a16e9d7ff730e8bc5beb.js": "d76d87045d0d1941383b6961f76124c2d5f1ae01",
+    "https://kalburgimanjunath.github.io/player/assets/icon/icon.html": "a2db52c9ea791fdafbab9f1793d16f7fbd8ab800",
+    "https://kalburgimanjunath.github.io/player/assets/icons/icon-128x128.png": "1855fde998b3d93beaaa4b0df600162892af7442",
+    "https://kalburgimanjunath.github.io/player/assets/icons/icon-144x144.png": "fc7be92b73a0e13d93a173bfe870a5e7cfcf47e3",
+    "https://kalburgimanjunath.github.io/player/assets/icons/icon-152x152.png": "4d76bcd323a51d39388f49ffb670dee52c30f1d5",
+    "https://kalburgimanjunath.github.io/player/assets/icons/icon-192x192.png": "67704cb90f85d702a0eafb8e66fb6e033d8d87d7",
+    "https://kalburgimanjunath.github.io/player/assets/icons/icon-384x384.png": "6e776d712223842ce3639aa8d37c993dbd73dedb",
+    "https://kalburgimanjunath.github.io/player/assets/icons/icon-48x48.png": "291eb7457380466d04606bec9930ce131cd31e26",
+    "https://kalburgimanjunath.github.io/player/assets/icons/icon-512x512.png": "a6f9d59f588d9ebc2d4f2c571d181cb80175b02b",
+    "https://kalburgimanjunath.github.io/player/assets/icons/icon-72x72.png": "7362a67a4625baf44d908892581027f9963ad355",
+    "https://kalburgimanjunath.github.io/player/assets/icons/icon-96x96.png": "f1cebf80b8f47834875f9447776d21d764bf4936",
+    "https://kalburgimanjunath.github.io/player/assets/images/developed-with-youtube-sentence-case-light.png": "5e464a581cf659c50cadc5606cba4f2e62c881f8",
+    "https://kalburgimanjunath.github.io/player/assets/privacy-policy.txt": "02fd28d19f011dd75ff2e2483b67c664edfabee5",
+    "https://kalburgimanjunath.github.io/player/favicon.ico": "6cf8ada4691f9c8311889101d975fe925597ec22",
+    "https://kalburgimanjunath.github.io/player/index.html": "75bb332cd05e5b3350524b0f80e934d0d06a851e",
+    "https://kalburgimanjunath.github.io/player/main-es2015.f7c27f6552c8afeabe4f.js": "0c9a5b4472cc5f37441e52ef3fda825de7af2d85",
+    "https://kalburgimanjunath.github.io/player/main-es5.f7c27f6552c8afeabe4f.js": "702d365aa91ace31bfbc08cf207a60262f7ed2ad",
+    "https://kalburgimanjunath.github.io/player/polyfills-es2015.b85ba166f997d29afc39.js": "8c492478d10476a8379d74210b51625cc0fd828b",
+    "https://kalburgimanjunath.github.io/player/polyfills-es5.28b8058dedeea6a29c6c.js": "01f262c50ec7dbf376e40887734351a143760392",
+    "https://kalburgimanjunath.github.io/player/runtime-es2015.3a4330a3e143c77f1415.js": "65bd79366f5f11c43f7065902ba3476c6380db63",
+    "https://kalburgimanjunath.github.io/player/runtime-es5.3a4330a3e143c77f1415.js": "7c64b7d4379b6c386bd0aa18ed44787ac618ba8f",
+    "https://kalburgimanjunath.github.io/player/styles.49edbe688308381c140f.css": "784d198cf925f6bc4eea5799d0112ee1d59c23fe"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
